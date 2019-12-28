@@ -13,8 +13,8 @@ Cara menggunakan tools: Klik link yang tertera, selanjutnya pilih bahasa pemrogr
 
 ### Soal No 5:
 Dikerjakan menggunakan Bahasa Pemrograman C. Cara input:
-  Please Enter Number of rows and columns  : 3 3
-  Please Enter the Matrix Elements
-  1 2 3
-  4 5 6
-  7 8 9
+  <br> Please Enter Number of rows and columns  : 3 3
+  <br> Please Enter the Matrix Elements
+ <br> 1 2 3
+ <br> 4 5 6
+ <br> 7 8 9
