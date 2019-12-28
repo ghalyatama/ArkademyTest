@@ -1,6 +1,6 @@
 # ArkademyTest
 
-Soal No 1:
+## Soal No 1:
 Dikerjakan menggunakan bahasa pemrograman python dan menggunakan platform google Colab sebagai text editor sekaligus compiler.
 Cara menggunakan platform: Login dahulu menggunakan Gmail, masuk ke dalam Google Drive, Add Google Colaboratory, Tuliskan code, dan jalankan.
 
@@ -10,3 +10,11 @@ Menambahkan script validation menggunakan Bahasa pemrograman dan menerapkan meod
 Soal No 3:
 Dikerjakan menggunakan Bahasa Pemrograman C, dikerjakan menggunakan tools online sebagai compiler https://www.onlinegdb.com/.
 Cara menggunakan tools: Klik link yang tertera, selanjutnya pilih bahasa pemrograman yang akan digunakan, tulis program, dan Run.
+
+Soal No 5:
+Dikerjakan menggunakan Bahasa Pemrograman C. Cara input:
+  Please Enter Number of rows and columns  : 3 3
+  Please Enter the Matrix Elements
+  1 2 3
+  4 5 6
+  7 8 9
